@@ -3,7 +3,7 @@ import { Form , Segment} from'semantic-ui-react';
 import ButtonSaveOrCancel from './ButtonSaveOrCancel'
 import EntryForm from './EntryForm';
 
-function NewEntryForm ({addEntry , 
+function NewEntryForm ({addEntry ,
                         description , 
                         value , 
                         isExpense , 
